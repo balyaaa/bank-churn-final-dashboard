@@ -78,3 +78,11 @@ if uploaded_file:
 
 else:
     st.info("Silakan upload file CSV yang berisi data pelanggan untuk diprediksi.")
+
+# Footer Credit
+st.markdown("---")
+st.markdown("**Dibuat oleh: Iqbal Alfaridzi Hakim**")
+st.markdown("📧 Email: alfaridzihakim@gmail.com")
+st.markdown("📷 Instagram: [@i2baal](https://instagram.com/i2baal)")
+st.markdown("💼 LinkedIn: [iqbal-alfaridzi-hakim](https://www.linkedin.com/in/iqbal-alfaridzi-hakim-2763a6254/)")
+st.markdown("🐙 GitHub: [balyaaa](https://github.com/balyaaa)")
