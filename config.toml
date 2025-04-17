@@ -1,8 +1,0 @@
-
-[theme]
-base="light"
-primaryColor="#003366"  # biru gelap khas perbankan
-backgroundColor="#f5f7fa"  # abu terang, profesional
-secondaryBackgroundColor="#dce3ec"  # abu biru lembut
-textColor="#0a0a0a"
-font="sans serif"
